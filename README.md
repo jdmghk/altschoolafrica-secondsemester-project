@@ -12,7 +12,7 @@ Before following this guide, ensure that you have:
 
 ## Public IP Address
 
-This server's public IP address is: 3.87.17.54
+This server's public IP address is: ```3.87.17.54``` or https://jdk.com.ng
 
 
 ## Steps to Run Your Web Server
